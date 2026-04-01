@@ -6,7 +6,7 @@ else()
   set(INDICATORS_IS_TOP_LEVEL OFF)
 endif()
 
-project(indicators VERSION 2.3.0 LANGUAGES CXX
+project(indicators VERSION 2.3.1 LANGUAGES CXX
   HOMEPAGE_URL "https://github.com/p-ranav/indicators"
   DESCRIPTION "Activity Indicators for Modern C++")
 
